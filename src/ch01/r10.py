@@ -5,5 +5,5 @@ Created on 5 août 2013
 '''
 
 if __name__ == '__main__':
-    for item in range(50, 81, 10):
+    for item in range(8, -9, -2):
         print(item, end = " ");
