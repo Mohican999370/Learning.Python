@@ -11,7 +11,9 @@ def is_multiple(n, m):
         return False;
 
 if __name__ == '__main__':
-    print(is_multiple(10, 5));
-    print(is_multiple(0, 5));
-    print(is_multiple(10, 3));
-    print(is_multiple(10, 0));
+    for i in range(0, 11):
+        for j in range(1, 6):
+            if (is_multiple(i, j)):
+                print(i, " is multiple of ", j);
+            else:
+                print(i, " is NOT multiple of ", j);
