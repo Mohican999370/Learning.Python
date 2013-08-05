@@ -1,7 +1,7 @@
 '''
 Created on 5 août 2013
 
-@author: mtpham
+@author: Son-Huy TRAN
 '''
 
 if __name__ == '__main__':

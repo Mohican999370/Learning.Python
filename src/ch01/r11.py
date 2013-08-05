@@ -5,5 +5,4 @@ Created on 5 août 2013
 '''
 
 if __name__ == '__main__':
-    for item in range(8, -9, -2):
-        print(item, end = " ");
+    print([2 ** k for k in range(0, 9)]);
