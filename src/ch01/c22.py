@@ -3,11 +3,7 @@ Created on 6 août 2013
 
 @author: Son-Huy
 '''
-
-def read_array():
-    input_string = input("Enter the elements separated by spaces: ");
-    tokens = input_string.split(" ");
-    return [int(token) for token in tokens];
+from ch01 import read_array;
 
 def dot_product(list_1, list_2):
     try:
