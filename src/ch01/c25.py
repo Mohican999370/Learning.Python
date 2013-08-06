@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 '''
 Created on 6 août 2013
 
-@author: Son-Huy
+@author: Son-Huy TRAN
 '''
 
 if __name__ == '__main__':
