@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div class="col8">
+    <section class="course-introduction claire-course js-smilize">
+        <p id="r-231692" data-claire-element-id="231692">Dans ce chapitre, nous allons essayer de faire un petit
+            programme que nous appellerons ZCasino. Il s'agira d'un petit jeu de roulette très simplifié dans lequel
+            vous pourrez miser une certaine somme et gagner ou perdre de l'argent (telle est la fortune, au casino !).
+            Quand vous n'avez plus d'argent, vous avez perdu.</p>
+
+        <h2 id="r-231704" data-claire-element-id="231704">Notre règle du jeu</h2>
+
+        <p id="r-231693" data-claire-element-id="231693">Bon, la roulette, c'est très sympathique comme jeu, mais un peu
+            trop compliqué pour un premier TP. Alors, on va simplifier les règles et je vous présente tout de suite ce
+            que l'on obtient :</p>
+        <ul id="r-231702" data-claire-element-id="231702">
+            <li id="r-231695" data-claire-element-id="231695"><p id="r-231694" data-claire-element-id="231694">Le joueur
+                mise sur un numéro compris entre 0 et 49 (50 numéros en tout). En choisissant son numéro, il y dépose la
+                somme qu'il souhaite miser.</p></li>
+            <li id="r-231697" data-claire-element-id="231697"><p id="r-231696" data-claire-element-id="231696">La
+                roulette est constituée de 50 cases allant naturellement de 0 à 49. Les numéros pairs sont de couleur
+                noire, les numéros impairs sont de couleur rouge. Le croupier lance la roulette, lâche la bille et quand
+                la roulette s'arrête, relève le numéro de la case dans laquelle la bille s'est arrêtée. Dans notre
+                programme, nous ne reprendrons pas tous ces détails « matériels » mais ces explications sont aussi à
+                l'intention de ceux qui ont eu la chance d'éviter les salles de casino jusqu'ici. Le numéro sur lequel
+                s'est arrêtée la bille est, naturellement, le numéro gagnant.</p></li>
+            <li id="r-231699" data-claire-element-id="231699"><p id="r-231698" data-claire-element-id="231698">Si le
+                numéro gagnant est celui sur lequel le joueur a misé (probabilité de 1/50, plutôt faible), le croupier
+                lui remet 3 fois la somme misée.</p></li>
+            <li id="r-231701" data-claire-element-id="231701"><p id="r-231700" data-claire-element-id="231700">Sinon, le
+                croupier regarde si le numéro misé par le joueur est de la même couleur que le numéro gagnant (s'ils
+                sont tous les deux pairs ou tous les deux impairs). Si c'est le cas, le croupier lui remet 50 % de la
+                somme misée. Si ce n'est pas le cas, le joueur perd sa mise.</p></li>
+        </ul>
+        <p id="r-231703" data-claire-element-id="231703">Dans les deux scénarios gagnants vus ci-dessus (le numéro misé
+            et le numéro gagnant sont identiques ou ont la même couleur), le croupier remet au joueur la somme
+            initialement misée avant d'y ajouter ses gains. Cela veut dire que, dans ces deux scénarios, le joueur
+            récupère de l'argent. Il n'y a que dans le troisième cas qu'il perd la somme misée. On utilisera pour devise
+            le dollar $ à la place de l'euro pour des raisons d'encodage sous la console Windows.</p>
+    </section>
+</div>
+<div class="col8">
+    <section class="course-introduction claire-course js-smilize">
+        <p id="r-231706" data-claire-element-id="231706">Pour ce projet, nous n'allons pas écrire de module. Nous allons
+            utiliser ceux de Python, qui sont bien suffisants pour l'instant, notamment celui permettant générer de
+            l'aléatoire, que je vais présenter plus bas. En attendant, ne vous privez quand même pas de créer un
+            répertoire et d'y mettre le fichier <code data-claire-semantic="python">ZCasino.py</code>, tout va se jouer
+            ici.</p>
+
+        <p id="r-231707" data-claire-element-id="231707">Vous êtes capables d'écrire le programme <code
+                data-claire-semantic="python">ZCasino</code> tel qu'expliqué dans la première partie sans difficulté…
+            sauf pour générer des nombres aléatoires. Python a dédié tout un module à la génération d'éléments
+            pseudo-aléatoires, le module <code data-claire-semantic="python">random</code>.</p>
+
+        <h2 id="r-231717" data-claire-element-id="231717">Le module <code data-claire-semantic="python">random</code>
+        </h2>
+
+        <p id="r-231708" data-claire-element-id="231708">Dans ce module, nous allons nous intéresser particulièrement à
+            la fonction <code data-claire-semantic="python">randrange</code> qui peut s'utiliser de deux manières :</p>
+        <ul id="r-231713" data-claire-element-id="231713">
+            <li id="r-231710" data-claire-element-id="231710"><p id="r-231709" data-claire-element-id="231709">en ne
+                précisant qu'un paramètre (<code data-claire-semantic="python">randrange(6)</code> renvoie un nombre
+                aléatoire compris entre 0 et 5) ;</p></li>
+            <li id="r-231712" data-claire-element-id="231712"><p id="r-231711" data-claire-element-id="231711">en
+                précisant deux paramètres (<code data-claire-semantic="python">randrange(1, 7)</code> : renvoie un
+                nombre aléatoire compris entre 1 et 6, ce qui est utile, par exemple, pour reproduire une expérience
+                avec un dé à six faces).</p></li>
+        </ul>
+        <p id="r-231714" data-claire-element-id="231714">Pour tirer un nombre aléatoire compris entre 0 et 49 et simuler
+            ainsi l'expérience du jeu de la roulette, nous allons donc utiliser l'instruction <code
+                    data-claire-semantic="python">randrange(50)</code>.</p>
+
+        <p id="r-231715" data-claire-element-id="231715">Il existe d'autres façons d'utiliser <code
+                data-claire-semantic="python">randrange</code> mais nous n'en aurons pas besoin ici et je dirais même
+            que, pour ce programme, seule la première utilisation vous sera utile.</p>
+
+        <p id="r-231716" data-claire-element-id="231716">N'hésitez pas à faire des tests dans l'interpréteur de
+            commandes (vous n'avez pas oublié où c'est, hein ?) et essayez plusieurs syntaxes de la fonction <code
+                    data-claire-semantic="python">randrange</code>. Je vous rappelle qu'elle se trouve dans le module
+            <code data-claire-semantic="python">random</code>, n'oubliez pas de l'importer.</p>
+
+        <h2 id="r-231719" data-claire-element-id="231719">Arrondir un nombre</h2>
+
+        <p id="r-231718" data-claire-element-id="231718">Vous l'avez peut-être bien noté, dans l'explication des règles
+            je spécifiais que si le joueur misait sur la bonne couleur, il obtenait 50% de sa mise. Oui mais… c'est
+            quand même mieux de travailler avec des entiers. Si le joueur mise 3$, par exemple, on lui rend 1,5$. C'est
+            encore acceptable mais, si cela se poursuit, on risque d'arriver à des nombres flottants avec beaucoup de
+            chiffres après la virgule. Alors autant arrondir au nombre supérieur. Ainsi, si le joueur mise 3$, on lui
+            rend 2$. Pour cela, on va utiliser une fonction du module <code data-claire-semantic="python">math</code>
+            nommée <code data-claire-semantic="python">ceil</code>. Je vous laisse regarder ce qu'elle fait, il n'y a
+            rien de compliqué.</p>
+
+        <h2 id="r-231722" data-claire-element-id="231722">À vous de jouer</h2>
+
+        <p id="r-231720" data-claire-element-id="231720">Voilà, vous avez toutes les clés en main pour coder ce
+            programme. Prenez le temps qu'il faut pour y arriver, ne vous ruez pas sur la correction, le but du TP est
+            que vous appreniez à coder vous-mêmes un programme… et celui-ci n'est pas très difficile. Si vous avez du
+            mal, morcelez le programme, ne codez pas tout d'un coup. Et n'hésitez pas à passer par l'interpréteur pour
+            tester des fonctionnalités : c'est réellement une chance qui vous est donnée, ne la laissez pas passer.</p>
+
+        <p id="r-231721" data-claire-element-id="231721">À vous de jouer !</p>
+    </section>
+</div>
+</body>
+</html>
