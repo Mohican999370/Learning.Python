@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="e01_list_01.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/beginner/e01_list_01.py">
+      <file leaf-file-name="e01_list.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beginner/e01_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="95" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.79435486" vertical-offset="439" max-vertical-offset="935">
+            <state line="49" column="95" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e02.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beginner/e02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="35" selection-start="876" selection-end="876" vertical-scroll-proportion="0.828629" vertical-offset="116" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -43,6 +52,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/beginner/e01_list_01.py" />
+        <option value="$PROJECT_DIR$/beginner/e02.py" />
       </list>
     </option>
   </component>
@@ -128,7 +138,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.e01_list_01">
+  <component name="RunManager" selected="Python.e02">
     <configuration default="false" name="e01_list_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +151,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenClassrooms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/e01_list_01.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Huy\Documents\Repositories\Learning.Python\OpenClassrooms\beginner\e01_list.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="e02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beginner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OpenClassrooms" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/e02.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -268,12 +296,14 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.e01_list_01" />
+      <item index="1" class="java.lang.String" itemvalue="Python.e02" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.e01_list_01" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.e02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.e01_list_01" />
       </list>
     </recent_temporary>
   </component>
@@ -343,16 +373,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beginner/e01_list_01.py">
+    <entry file="file://$PROJECT_DIR$/beginner/e01_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="12" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/e01_list_01.py">
+    <entry file="file://$PROJECT_DIR$/beginner/e01_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="95" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.79435486" vertical-offset="439" max-vertical-offset="935">
+        <state line="49" column="95" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginner/e02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="35" selection-start="876" selection-end="876" vertical-scroll-proportion="0.828629" vertical-offset="116" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
