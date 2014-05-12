@@ -22,17 +22,7 @@
     <favorites_list name="Code.Forces" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="P0318A_Even_Odds.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/P0318A_Even_Odds.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="163" selection-end="433" vertical-scroll-proportion="0.24485597" vertical-offset="0" max-vertical-offset="486">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -42,15 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/P1A.py" />
-        <option value="$PROJECT_DIR$/P4A.py" />
-        <option value="$PROJECT_DIR$/P0158A.py" />
-        <option value="$PROJECT_DIR$/P0071A.py" />
-        <option value="$PROJECT_DIR$/P0118A.py" />
-        <option value="$PROJECT_DIR$/P0158B.py" />
-        <option value="$PROJECT_DIR$/P0231A.py" />
-        <option value="$PROJECT_DIR$/P0050A.py" />
-        <option value="$PROJECT_DIR$/P0116A.py" />
         <option value="$PROJECT_DIR$/P0131A.py" />
         <option value="$PROJECT_DIR$/P0282A.py" />
         <option value="$PROJECT_DIR$/P0266A.py" />
@@ -88,6 +69,20 @@
         <option value="$PROJECT_DIR$/P0118B_Present_from_Lena.py" />
         <option value="$PROJECT_DIR$/P0313A_Ilya_and_Bank_Account.py" />
         <option value="$PROJECT_DIR$/P0318A_Even_Odds.py" />
+        <option value="$PROJECT_DIR$/P0230A_Dragons.py" />
+        <option value="$PROJECT_DIR$/P0330A_Cakeminator.py" />
+        <option value="$PROJECT_DIR$/P0037A_Towers.py" />
+        <option value="$PROJECT_DIR$/P0369A_Valera_and_Plates.py" />
+        <option value="$PROJECT_DIR$/P0405A_Gravity_Flip.py" />
+        <option value="$PROJECT_DIR$/P0158C_CD_and_PWD_Commands.py" />
+        <option value="$PROJECT_DIR$/P0276A_Lunch_Rush.py" />
+        <option value="$PROJECT_DIR$/P0352A_Jeff_and_Digits.py" />
+        <option value="$PROJECT_DIR$/P0214A_System_of_Equations.py" />
+        <option value="$PROJECT_DIR$/P0059A_Word.py" />
+        <option value="$PROJECT_DIR$/P0401A_Vanya_and_Cards.py" />
+        <option value="$PROJECT_DIR$/P0379B_New_Year_Present.py" />
+        <option value="$PROJECT_DIR$/P0349A_Cinema_Line.py" />
+        <option value="$PROJECT_DIR$/P0385A_Bear_and_Raspberry.py" />
       </list>
     </option>
   </component>
@@ -161,8 +156,8 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.P0318A_Even_Odds">
-    <configuration default="false" name="P0155A_I_Love_Username" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.P0385A_Bear_and_Raspberry">
+    <configuration default="false" name="P0401A_Vanya_and_Cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -174,7 +169,43 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0155A_I_Love_Username.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0401A_Vanya_and_Cards.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0059A_Word" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Forces" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0059A_Word.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0349A_Cinema_Line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Forces" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0349A_Cinema_Line.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -182,7 +213,7 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="P0149A_Business_Trip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P0379B_New_Year_Present" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -194,7 +225,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0149A_Business_Trip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0379B_New_Year_Present.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -202,7 +233,7 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="P0118B_Present_from_Lena" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P0385A_Bear_and_Raspberry" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -214,51 +245,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0118B_Present_from_Lena.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0385A_Bear_and_Raspberry.py" />
       <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0313A_Ilya_and_Bank_Account" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0313A_Ilya_and_Bank_Account.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0318A_Even_Odds" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0318A_Even_Odds.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -384,23 +373,40 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.P0155A_I_Love_Username" />
-      <item index="1" class="java.lang.String" itemvalue="Python.P0149A_Business_Trip" />
-      <item index="2" class="java.lang.String" itemvalue="Python.P0118B_Present_from_Lena" />
-      <item index="3" class="java.lang.String" itemvalue="Python.P0313A_Ilya_and_Bank_Account" />
-      <item index="4" class="java.lang.String" itemvalue="Python.P0318A_Even_Odds" />
+      <item index="0" class="java.lang.String" itemvalue="Python.P0401A_Vanya_and_Cards" />
+      <item index="1" class="java.lang.String" itemvalue="Python.P0059A_Word" />
+      <item index="2" class="java.lang.String" itemvalue="Python.P0349A_Cinema_Line" />
+      <item index="3" class="java.lang.String" itemvalue="Python.P0379B_New_Year_Present" />
+      <item index="4" class="java.lang.String" itemvalue="Python.P0385A_Bear_and_Raspberry" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.P0318A_Even_Odds" />
-        <item index="1" class="java.lang.String" itemvalue="Python.P0313A_Ilya_and_Bank_Account" />
-        <item index="2" class="java.lang.String" itemvalue="Python.P0118B_Present_from_Lena" />
-        <item index="3" class="java.lang.String" itemvalue="Python.P0149A_Business_Trip" />
-        <item index="4" class="java.lang.String" itemvalue="Python.P0155A_I_Love_Username" />
+        <item index="0" class="java.lang.String" itemvalue="Python.P0385A_Bear_and_Raspberry" />
+        <item index="1" class="java.lang.String" itemvalue="Python.P0349A_Cinema_Line" />
+        <item index="2" class="java.lang.String" itemvalue="Python.P0379B_New_Year_Present" />
+        <item index="3" class="java.lang.String" itemvalue="Python.P0059A_Word" />
+        <item index="4" class="java.lang.String" itemvalue="Python.P0401A_Vanya_and_Cards" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="84120b89-fd44-40af-b479-d5ddd036ae58" name="Default" comment="" />
@@ -413,16 +419,16 @@
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3992298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32349166" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34274712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -447,330 +453,293 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/P0004A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0001A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0158A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0071A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0118A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0158B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="13" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0231A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="58" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0050A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0116A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/P0131A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="12" column="16" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0282A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
+        <state line="17" column="13" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0266A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="12" column="19" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0082A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="70" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="21" column="70" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0112A_Petya_and_String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="32" selection-start="162" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="28" column="32" selection-start="162" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0133A_HQ9Plus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="163" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="163" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0096A_Football.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="162" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="162" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0119A_Epic_Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="29" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="29" column="29" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0160A_Twins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0148A_Insomnia_Cure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0339A_Helpful_Maths.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0281A_Word_Capitalization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0236A_Boy_or_Girl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="490" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="490" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0110A_Nearly_Lucky_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0228A_Is_Your_Horseshoe_On_The_Other_Hoof.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="15" column="27" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0271A_Beautiful_Year.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="45" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="23" column="45" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0144A_Arrival_Of_The_General.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="20" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="22" column="20" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="476" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0379A_New_Year_Candle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0136A_Presents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0266B_Queue_at_the_School.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding>
-            <marker date="1399465251381" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0268A_Games.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="162" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="162" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0122A_Lucky_Division.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0263A_Beautiful_Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="116" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="116" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0061A_Ultra_Fast_Mathematician.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="161" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="161" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0058A_Chat_Room.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="15" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="16" column="15" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0141A_Amusing_Joke.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="14" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="544">
-          <folding />
-        </state>
+        <state line="21" column="14" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0069A_Young_Physicist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="162" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="162" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0344A_Magnets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0237A_Free_Cash.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0208A_Dubstep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0041A_Translation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="116" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="116" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0268B_Buttons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="27" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
+        <state line="7" column="27" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0155A_I_Love_Username.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0149A_Business_Trip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0118B_Present_from_Lena.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0313A_Ilya_and_Bank_Account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="16" column="23" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0318A_Even_Odds.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="163" selection-end="433" vertical-scroll-proportion="0.24485597" vertical-offset="0" max-vertical-offset="486">
+        <state line="7" column="0" selection-start="163" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0230A_Dragons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="36" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0330A_Cakeminator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0037A_Towers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0369A_Valera_and_Plates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="20" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0405A_Gravity_Flip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="162" selection-end="291" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0158C_CD_and_PWD_Commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="600" selection-end="600" vertical-scroll-proportion="0.59049773" vertical-offset="249" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0276A_Lunch_Rush.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="313" selection-end="313" vertical-scroll-proportion="0.53846157" vertical-offset="0" max-vertical-offset="442">
+          <folding>
+            <marker date="1399899929230" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0352A_Jeff_and_Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="162" selection-end="334" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0214A_System_of_Equations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="162" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0059A_Word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="320" selection-end="320" vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0401A_Vanya_and_Cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="162" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0379B_New_Year_Present.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="22" selection-start="162" selection-end="872" vertical-scroll-proportion="0.8622328" vertical-offset="283" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0385A_Bear_and_Raspberry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="0" selection-end="500" vertical-scroll-proportion="0.24485597" vertical-offset="0" max-vertical-offset="486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0349A_Cinema_Line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="42" selection-start="999" selection-end="999" vertical-scroll-proportion="0.82098764" vertical-offset="298" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
