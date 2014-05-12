@@ -431,11 +431,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -639,109 +639,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P0318A_Even_Odds.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="163" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="163" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0230A_Dragons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="36" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-          <folding />
-        </state>
+        <state line="29" column="36" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0330A_Cakeminator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="544">
-          <folding />
-        </state>
+        <state line="26" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0037A_Towers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="27" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="13" column="27" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0369A_Valera_and_Plates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="20" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="24" column="20" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0405A_Gravity_Flip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="291" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="291" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0158C_CD_and_PWD_Commands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="600" selection-end="600" vertical-scroll-proportion="0.59049773" vertical-offset="249" max-vertical-offset="714">
-          <folding />
-        </state>
+        <state line="30" column="0" selection-start="600" selection-end="600" vertical-scroll-proportion="0.59049773" vertical-offset="249" max-vertical-offset="714" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0276A_Lunch_Rush.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="313" selection-end="313" vertical-scroll-proportion="0.53846157" vertical-offset="0" max-vertical-offset="442">
-          <folding>
-            <marker date="1399899929230" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="14" column="18" selection-start="313" selection-end="313" vertical-scroll-proportion="0.53846157" vertical-offset="0" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0352A_Jeff_and_Digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="334" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="334" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0214A_System_of_Equations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0059A_Word.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="23" selection-start="320" selection-end="320" vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
+        <state line="12" column="23" selection-start="320" selection-end="320" vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0401A_Vanya_and_Cards.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="162" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="162" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0379B_New_Year_Present.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="22" selection-start="162" selection-end="872" vertical-scroll-proportion="0.8622328" vertical-offset="283" max-vertical-offset="748">
-          <folding />
-        </state>
+        <state line="38" column="22" selection-start="162" selection-end="872" vertical-scroll-proportion="0.8622328" vertical-offset="283" max-vertical-offset="748" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0385A_Bear_and_Raspberry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="0" selection-end="500" vertical-scroll-proportion="0.24485597" vertical-offset="0" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="0" selection-end="500" vertical-scroll-proportion="0.24485597" vertical-offset="0" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0349A_Cinema_Line.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="42" selection-start="999" selection-end="999" vertical-scroll-proportion="0.82098764" vertical-offset="298" max-vertical-offset="799">
-          <folding />
-        </state>
+        <state line="41" column="42" selection-start="999" selection-end="999" vertical-scroll-proportion="0.82098764" vertical-offset="298" max-vertical-offset="799" />
       </provider>
     </entry>
   </component>
