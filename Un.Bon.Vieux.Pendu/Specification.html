@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<section class="course-introduction claire-course js-smilize">
+    <p id="r-232523" data-claire-element-id="232523">Nous y voilà. Je vais vous préciser un peu la mission, sans quoi on
+        va avoir du mal à s'entendre sur la correction.</p>
+
+    <h2 id="r-232528" data-claire-element-id="232528">Un jeu du pendu</h2>
+
+    <p id="r-232524" data-claire-element-id="232524">Le premier point de la mission est de réaliser un jeu du pendu. Je
+        rappelle brièvement les règles, au cas où : l'ordinateur choisit un mot au hasard dans une liste, un mot de huit
+        lettres maximum. Le joueur tente de trouver les lettres composant le mot. À chaque coup, il saisit une lettre.
+        Si la lettre figure dans le mot, l'ordinateur affiche le mot avec les lettres déjà trouvées. Celles qui ne le
+        sont pas encore sont remplacées par des étoiles (*). Le joueur a 8 chances. Au delà, il a perdu.</p>
+
+    <p id="r-232525" data-claire-element-id="232525">On va compliquer un peu les règles en demandant au joueur de donner
+        son nom, au début de la partie. Cela permettra au programme d'enregistrer son score.</p>
+
+    <p id="r-232526" data-claire-element-id="232526">Le score du joueur sera simple à calculer : on prend le score
+        courant (0 si le joueur n'a aucun score déjà enregistré) et, à chaque partie, on lui ajoute le nombre de coups
+        restants comme points de partie. Si, par exemple, il me reste trois coups au moment où je trouve le mot, je
+        gagne trois points.</p>
+
+    <p id="r-232527" data-claire-element-id="232527">Par la suite, vous pourrez vous amuser à faire un décompte plus
+        poussé du score, pour l'instant cela suffira bien.</p>
+
+    <h2 id="r-232537" data-claire-element-id="232537">Le côté technique du problème</h2>
+
+    <p id="r-232529" data-claire-element-id="232529">Le jeu du pendu en lui-même, vous ne devriez avoir aucun problème à
+        le mettre en place. Rappelez-vous que le joueur ne doit donner qu'une seule lettre à la fois et que le programme
+        doit bien vérifier que c'est le cas avant de continuer. Nous allons découper notre programme en trois fichiers
+        :</p>
+    <ul id="r-232536" data-claire-element-id="232536">
+        <li id="r-232531" data-claire-element-id="232531"><p id="r-232530" data-claire-element-id="232530">Le fichier
+            <code data-claire-semantic="python">donnees.py</code> qui contiendra les variables nécessaires à notre
+            application (la liste des mots, le nombre de chances autorisées…).</p></li>
+        <li id="r-232533" data-claire-element-id="232533"><p id="r-232532" data-claire-element-id="232532">Le fichier
+            <code data-claire-semantic="python">fonctions.py</code> qui contiendra les fonctions utiles à notre
+            application. Là, je ne vous fais aucune liste claire, je vous conseille de bien y réfléchir, avec une
+            feuille et un stylo si cela vous aide (Quelles sont les actions de mon programme ? Que puis-je mettre dans
+            des fonctions ?).</p></li>
+        <li id="r-232535" data-claire-element-id="232535"><p id="r-232534" data-claire-element-id="232534">Enfin, notre
+            fichier <code data-claire-semantic="python">pendu.py</code> qui contiendra notre jeu du pendu.</p></li>
+    </ul>
+    <h2 id="r-232545" data-claire-element-id="232545">Gérer les scores</h2>
+
+    <p id="r-232538" data-claire-element-id="232538">Vous avez, j'espère, une petite idée de comment faire cela… mais je
+        vais quand même clarifier : on va enregistrer dans un fichier de données, que l'on va appeler <code
+                data-claire-semantic="python">scores</code> (sans aucune extension) les scores du jeu. Ces scores seront
+        sous la forme d'un dictionnaire : en clés, nous aurons les noms des joueurs et en valeurs les scores, sous la
+        forme d'entiers.</p>
+
+    <p id="r-232539" data-claire-element-id="232539">Il faut gérer les cas suivants :</p>
+    <ul id="r-232544" data-claire-element-id="232544">
+        <li id="r-232541" data-claire-element-id="232541"><p id="r-232540" data-claire-element-id="232540">Le fichier
+            n'existe pas. Là, on crée un dictionnaire vide, aucun score n'a été trouvé.</p></li>
+        <li id="r-232543" data-claire-element-id="232543"><p id="r-232542" data-claire-element-id="232542">Le joueur
+            n'est pas dans le dictionnaire. Dans ce cas, on l'ajoute avec un score de <code
+                    data-claire-semantic="python">0</code>.</p></li>
+    </ul>
+    <h2 id="r-232548" data-claire-element-id="232548">À vous de jouer</h2>
+
+    <p id="r-232546" data-claire-element-id="232546">Vous avez l'essentiel. Peut-être pas tout ce dont vous avez besoin,
+        cela dépend de comment vous vous organisez, mais le but est aussi de chercher ! Encore une fois, c'est un
+        exercice pratique, ne sautez pas à la correction tout de suite, cela ne vous apprendra pas grand chose.</p>
+
+    <p id="r-232547" data-claire-element-id="232547">Bonne chance !</p>
+</section>
+</body>
+</html>
