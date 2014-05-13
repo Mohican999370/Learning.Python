@@ -9,4 +9,12 @@ vowels = 'aeiouy'
 results = [''] * n
 
 for i in range(n):
-    
+    count = {}
+    value = input()
+
+    for vowel in vowels:
+        count[vowel] = value.count(vowel)
+
+    results[i] = str(sum(count.values()))
+
+print(' '.join(results))
