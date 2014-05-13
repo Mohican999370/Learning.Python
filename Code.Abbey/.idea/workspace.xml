@@ -11,6 +11,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Code.Abbey$P0038_Quadratic_Equation.coverage" NAME="P0038_Quadratic_Equation Coverage Results" MODIFIED="1400006150579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_math" />
+    <SUITE FILE_PATH="coverage/Code.Abbey$P0037_Integer_Factorization.coverage" NAME="P0037_Integer_Factorization Coverage Results" MODIFIED="1400006836753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_math" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -22,102 +26,7 @@
     <favorites_list name="Code.Abbey" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="P0044_Double_Dice_Roll.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game_logic/P0044_Double_Dice_Roll.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="16" selection-start="499" selection-end="668" vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="663">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0052_Pythagorean_Theorem.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geometry_basics/P0052_Pythagorean_Theorem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="17" selection-start="0" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="646">
-              <folding>
-                <marker date="1399993769164" expanded="true" signature="165:350" placeholder="..." />
-                <marker date="1399993769164" expanded="true" signature="382:457" placeholder="..." />
-                <marker date="1399993769164" expanded="true" signature="478:594" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0047_Caesar_Shift_Cipher.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string_tricks/P0047_Caesar_Shift_Cipher.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="782">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0049_Rock_Paper_Scissors.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game_logic/P0049_Rock_Paper_Scissors.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="9" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="595">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0055_Matching_Words.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string_tricks/P0055_Matching_Words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="29" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0094_Fool_Day_2014.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_math/P0094_Fool_Day_2014.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="0" selection-end="432" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0033_Parity_Control.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/string_tricks/P0033_Parity_Control.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="0" selection-end="560" vertical-scroll-proportion="0.5347369" vertical-offset="137" max-vertical-offset="612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0018_Square_Root.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_math/P0018_Square_Root.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="16" selection-start="271" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0050_Palindromes.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string_tricks/P0050_Palindromes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="544" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="595">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0009_Triangles.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geometry_basics/P0009_Triangles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="615" selection-end="658" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -127,43 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/beginner/P1_Sum.py" />
-        <option value="$PROJECT_DIR$/P2_Sum_in_Loop.py" />
-        <option value="$PROJECT_DIR$/beginner/P3_Sums_in_Loop.py" />
-        <option value="$PROJECT_DIR$/beginner/P4_Minimum_of_two.py" />
-        <option value="$PROJECT_DIR$/beginner/P5_Minimum_of_Three.py" />
-        <option value="$PROJECT_DIR$/beginner/P6_Maximum_of_Array.py" />
-        <option value="$PROJECT_DIR$/simple_math/P0016_Average_of_an_Array.py" />
-        <option value="$PROJECT_DIR$/simple_math/P0014_Modular_Calculator.py" />
-        <option value="$PROJECT_DIR$/simple_math/P0008_Arithmetic_Progression.py" />
-        <option value="$PROJECT_DIR$/beginner/P0006_Rounding.py" />
-        <option value="$PROJECT_DIR$/beginner/P0007_Fahrenheit_to_Celsius.py" />
-        <option value="$PROJECT_DIR$/beginner/P0020_Vowel_Count.py" />
-        <option value="$PROJECT_DIR$/beginner/P0041_Median_of_Three.py" />
-        <option value="$PROJECT_DIR$/beginner/P0028_Body_Mass_Index.py" />
-        <option value="$PROJECT_DIR$/beginner/P0043_Dice_Rolling.py" />
-        <option value="$PROJECT_DIR$/beginner/P0013_Weighted_Sum_of_Digits.py" />
-        <option value="$PROJECT_DIR$/beginner/P0011_Sum_of_Digits.py" />
-        <option value="$PROJECT_DIR$/beginner/P0017_Array_Checksum.py" />
-        <option value="$PROJECT_DIR$/beginner/P0021_Array_Counters.py" />
-        <option value="$PROJECT_DIR$/beginner/P0048_Collatz.py" />
-        <option value="$PROJECT_DIR$/beginner/P0027_Bubble_Sort.py" />
-        <option value="$PROJECT_DIR$/beginner/P0024_Neumanns_Random_Generator.py" />
-        <option value="$PROJECT_DIR$/beginner/P0012_Modulo_and_Time_Difference.py" />
-        <option value="$PROJECT_DIR$/beginner/P0026_Greatest_Common_Divisor.py" />
-        <option value="$PROJECT_DIR$/beginner/P0067_Fibonacci_Sequence.py" />
-        <option value="$PROJECT_DIR$/beginner/P0027_Sort_with_Indexes.py" />
-        <option value="$PROJECT_DIR$/beginner/P0057_Smoothing_the_Weather.py" />
-        <option value="$PROJECT_DIR$/beginner/P0032_Josephus_Problem.py" />
-        <option value="$PROJECT_DIR$/beginner/P0061_Prime_Number_Generation.py" />
-        <option value="$PROJECT_DIR$/beginner/P0081_Bit_Count.py" />
-        <option value="$PROJECT_DIR$/beginner/P0023_Bubble_in_Array.py" />
-        <option value="$PROJECT_DIR$/beginner/P0034_Binary_Search.py" />
-        <option value="$PROJECT_DIR$/simple_math/P0010_Linear_Function.py" />
-        <option value="$PROJECT_DIR$/simple_math/P0018_Square_Root.py" />
-        <option value="$PROJECT_DIR$/geometry_basics/P0009_Triangles.py" />
-        <option value="$PROJECT_DIR$/string_tricks/P0030_Reverse_String.py" />
-        <option value="$PROJECT_DIR$/simple_puzzles/P0068_Bicycle_Race.py" />
         <option value="$PROJECT_DIR$/simple_puzzles/P0050_Palindrome.py" />
         <option value="$PROJECT_DIR$/simple_puzzles/P0050_Palindromes.py" />
         <option value="$PROJECT_DIR$/string_tricks/P0031_Rotate_String.py" />
@@ -178,14 +50,16 @@
         <option value="$PROJECT_DIR$/string_tricks/P0055_Matching_Words.py" />
         <option value="$PROJECT_DIR$/simple_math/P0094_Fool_Day_2014.py" />
         <option value="$PROJECT_DIR$/string_tricks/P0033_Parity_Control.py" />
+        <option value="$PROJECT_DIR$/simple_math/P0038_Quadratic_Equation.py" />
+        <option value="$PROJECT_DIR$/simple_math/P0037_Integer_Factorization.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="56" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="width" value="1318" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -231,8 +105,18 @@
               <option name="myItemId" value="Code.Abbey" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="string_tricks" />
+              <option name="myItemId" value="Code.Abbey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code.Abbey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_math" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,24 +129,29 @@
               <option name="myItemId" value="Code.Abbey" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beginner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Books" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Books" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings />
+      <PyConsoleSettings />
     </option>
   </component>
   <component name="RecentsManager">
@@ -271,43 +160,7 @@
       <recent name="C:\Users\Huy\Documents\Repositories\Learning.Python\Code.Abbey\beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.P0033_Parity_Control">
-    <configuration default="false" name="P0047_Caesar_Shift_Cipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_tricks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Abbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_tricks/P0047_Caesar_Shift_Cipher.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0049_Rock_Paper_Scissors" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/game_logic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Abbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game_logic/P0049_Rock_Paper_Scissors.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.P0037_Integer_Factorization">
     <configuration default="false" name="P0055_Matching_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,6 +173,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_tricks/P0055_Matching_Words.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -338,6 +192,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_math/P0094_Fool_Day_2014.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -356,12 +211,71 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_tricks/P0033_Parity_Control.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0038_Quadratic_Equation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_math/P0038_Quadratic_Equation.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0037_Integer_Factorization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_math/P0037_Integer_Factorization.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -374,6 +288,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -398,6 +313,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -421,8 +337,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -435,6 +355,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -457,6 +378,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -476,6 +398,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Abbey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -486,19 +409,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.P0047_Caesar_Shift_Cipher" />
-      <item index="1" class="java.lang.String" itemvalue="Python.P0049_Rock_Paper_Scissors" />
-      <item index="2" class="java.lang.String" itemvalue="Python.P0055_Matching_Words" />
-      <item index="3" class="java.lang.String" itemvalue="Python.P0094_Fool_Day_2014" />
-      <item index="4" class="java.lang.String" itemvalue="Python.P0033_Parity_Control" />
+      <item index="0" class="java.lang.String" itemvalue="Python.P0055_Matching_Words" />
+      <item index="1" class="java.lang.String" itemvalue="Python.P0094_Fool_Day_2014" />
+      <item index="2" class="java.lang.String" itemvalue="Python.P0033_Parity_Control" />
+      <item index="3" class="java.lang.String" itemvalue="Python.P0038_Quadratic_Equation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.P0037_Integer_Factorization" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.P0033_Parity_Control" />
-        <item index="1" class="java.lang.String" itemvalue="Python.P0094_Fool_Day_2014" />
-        <item index="2" class="java.lang.String" itemvalue="Python.P0055_Matching_Words" />
-        <item index="3" class="java.lang.String" itemvalue="Python.P0049_Rock_Paper_Scissors" />
-        <item index="4" class="java.lang.String" itemvalue="Python.P0047_Caesar_Shift_Cipher" />
+        <item index="0" class="java.lang.String" itemvalue="Python.P0037_Integer_Factorization" />
+        <item index="1" class="java.lang.String" itemvalue="Python.P0038_Quadratic_Equation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.P0033_Parity_Control" />
+        <item index="3" class="java.lang.String" itemvalue="Python.P0094_Fool_Day_2014" />
+        <item index="4" class="java.lang.String" itemvalue="Python.P0055_Matching_Words" />
       </list>
     </recent_temporary>
   </component>
@@ -512,26 +435,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <frame x="56" y="-8" width="1318" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961598" sideWeight="0.59907836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3992298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40092167" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -553,305 +477,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beginner/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="753" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0001_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="167" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0002_Sum_in_Loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="116" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0004_Minimum_of_two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="167" selection-end="340" vertical-scroll-proportion="0.4798387" vertical-offset="0" max-vertical-offset="496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0005_Minimum_of_Three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="116" selection-end="295" vertical-scroll-proportion="0.4798387" vertical-offset="0" max-vertical-offset="496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0015_Maximum_of_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="256" selection-end="256" vertical-scroll-proportion="0.23991935" vertical-offset="0" max-vertical-offset="496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0003_Sums_in_Loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="235" selection-end="292" vertical-scroll-proportion="0.4455645" vertical-offset="0" max-vertical-offset="496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0016_Average_of_an_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0014_Modular_Calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="14" selection-start="175" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple_math/P0008_Arithmetic_Progression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="385" selection-end="385" vertical-scroll-proportion="0.4798387" vertical-offset="0" max-vertical-offset="496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0006_Rounding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="165" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0007_Fahrenheit_to_Celsius.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0020_Vowel_Count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="24" selection-start="168" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0041_Median_of_Three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0028_Body_Mass_Index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="16" selection-start="172" selection-end="1055" vertical-scroll-proportion="0.0" vertical-offset="541" max-vertical-offset="1037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0043_Dice_Rolling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="16" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0013_Weighted_Sum_of_Digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="16" selection-start="180" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0011_Sum_of_Digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="28" selection-start="0" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="222" max-vertical-offset="697">
-          <folding>
-            <marker date="1399973286418" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399973286418" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399973286418" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0021_Array_Counters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0048_Collatz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="561">
-          <folding>
-            <marker date="1399974226838" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399974226838" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0012_Modulo_and_Time_Difference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
-          <folding>
-            <marker date="1399980887454" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399980887454" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399980887454" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399980887454" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399980887454" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399980887454" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0027_Sort_with_Indexes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="0" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="901">
-          <folding>
-            <marker date="1399982465018" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399982465018" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399982465018" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0067_Fibonacci_Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="12" selection-start="592" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0057_Smoothing_the_Weather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="12" selection-start="0" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="578">
-          <folding>
-            <marker date="1399982928051" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399982928051" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0032_Josephus_Problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="544">
-          <folding>
-            <marker date="1399983253452" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0061_Prime_Number_Generation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="26" selection-start="0" selection-end="1052" vertical-scroll-proportion="0.0" vertical-offset="358" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0024_Neumanns_Random_Generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0081_Bit_Count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0017_Array_Checksum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="117" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0027_Bubble_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="16" selection-start="0" selection-end="944" vertical-scroll-proportion="0.79435486" vertical-offset="303" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0026_Greatest_Common_Divisor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="42" selection-start="686" selection-end="686" vertical-scroll-proportion="0.6572581" vertical-offset="167" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0034_Binary_Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="16" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.86290324" vertical-offset="422" max-vertical-offset="952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/P0023_Bubble_in_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.7641129" vertical-offset="63" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.79435486" vertical-offset="218" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple_math/P0010_Linear_Function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="0" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <marker date="1399988732397" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399988732397" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string_tricks/P0030_Reverse_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="0" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple_puzzles/P0068_Bicycle_Race.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="28" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string_tricks/P0031_Rotate_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="28" selection-start="0" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_puzzles/P0019_Matching_Brackets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="0" selection-end="900" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="799">
-          <folding>
-            <marker date="1399992046689" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="16" column="22" selection-start="0" selection-end="900" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="799" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/simple_math/P0025_Linear_Congruential_Generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="224" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="561">
-          <folding>
-            <marker date="1399992359201" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399992359201" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="27" column="16" selection-start="224" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/simple_math/P0035_Savings_Calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="748">
-          <folding>
-            <marker date="1399992872559" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399992872559" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="23" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="748" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/geometry_basics/P0009_Triangles.py">
@@ -864,11 +502,7 @@
     <entry file="file://$PROJECT_DIR$/geometry_basics/P0052_Pythagorean_Theorem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="17" selection-start="0" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="646">
-          <folding>
-            <marker date="1399993769164" expanded="true" signature="165:350" placeholder="..." />
-            <marker date="1399993769164" expanded="true" signature="382:457" placeholder="..." />
-            <marker date="1399993769164" expanded="true" signature="478:594" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +557,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string_tricks/P0033_Parity_Control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="0" selection-end="560" vertical-scroll-proportion="0.5347369" vertical-offset="137" max-vertical-offset="612">
+        <state line="28" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_math/P0038_Quadratic_Equation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="0" selection-end="1062" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginner/P0061_Prime_Number_Generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="486" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_math/P0037_Integer_Factorization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="450" selection-end="451" vertical-scroll-proportion="0.76648355" vertical-offset="27" max-vertical-offset="408">
           <folding />
         </state>
       </provider>

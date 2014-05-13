@@ -16,11 +16,11 @@
     <SUITE FILE_PATH="coverage/Code.Forces$P0165A_Supercentral_Point.coverage" NAME="P0165A_Supercentral_Point Coverage Results" MODIFIED="1399934021555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code.Forces$P0025A_IQ_Test.coverage" NAME="P0025A_IQ_Test Coverage Results" MODIFIED="1399935232556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code.Forces$P0384A_Coder.coverage" NAME="P0384A_Coder Coverage Results" MODIFIED="1399922068394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code.Forces$P0200B_Drinks.coverage" NAME="P0200B_Drinks Coverage Results" MODIFIED="1399922597589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code.Forces$P0381A_Sereja_and_Dima.coverage" NAME="P0381A_Sereja_and_Dima Coverage Results" MODIFIED="1399920766564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code.Forces$P0200B_Drinks.coverage" NAME="P0200B_Drinks Coverage Results" MODIFIED="1399922597589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code.Forces$P0255A_Greg_s_Workout.coverage" NAME="P0255A_Greg_s_Workout Coverage Results" MODIFIED="1399923566471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code.Forces$P0151A_Soft_Drinking.coverage" NAME="P0151A_Soft_Drinking Coverage Results" MODIFIED="1399933147245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code.Forces$P0233A_Perfect_Permutation.coverage" NAME="P0233A_Perfect_Permutation Coverage Results" MODIFIED="1399923956281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code.Forces$P0151A_Soft_Drinking.coverage" NAME="P0151A_Soft_Drinking Coverage Results" MODIFIED="1399933147245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code.Forces$P0285A_Slightly_Decreasing_Permutations.coverage" NAME="P0285A_Slightly_Decreasing_Permutations Coverage Results" MODIFIED="1399923058116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -34,102 +34,7 @@
     <favorites_list name="Code.Forces" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="P0381A_Sereja_and_Dima.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0381A_Sereja_and_Dima.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="41" selection-start="162" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0384A_Coder.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0384A_Coder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="10" selection-start="163" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="646">
-              <folding>
-                <marker date="1399922035500" expanded="true" signature="203:465" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0200B_Drinks.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0200B_Drinks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="10" selection-start="163" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-              <folding>
-                <marker date="1399922607859" expanded="true" signature="181:299" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0285A_Slightly_Decreasing_Permutations.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0285A_Slightly_Decreasing_Permutations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="18" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0255A_Greg_s_Workout.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0255A_Greg_s_Workout.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="10" selection-start="117" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0233A_Perfect_Permutation.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0233A_Perfect_Permutation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="10" selection-start="117" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="459">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0151A_Soft_Drinking.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0151A_Soft_Drinking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0165A_Supercentral_Point.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0165A_Supercentral_Point.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="17" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0272A_Dima_and_Friends.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0272A_Dima_and_Friends.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="10" selection-start="117" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0025A_IQ_Test.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/P0025A_IQ_Test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="10" selection-start="117" selection-end="402" vertical-scroll-proportion="0.7322835" vertical-offset="61" max-vertical-offset="442">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -257,13 +162,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="fileTemplates" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Books" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -454,6 +359,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -475,9 +383,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -572,7 +477,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24347158" sideWeight="0.6574501" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24347158" sideWeight="0.6574501" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51766515" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -647,7 +552,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="10" selection-start="163" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="646">
           <folding>
-            <marker date="1399922035500" expanded="true" signature="203:465" placeholder="..." />
+            <marker date="1399922035500" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -656,7 +561,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="10" selection-start="163" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <folding>
-            <marker date="1399922607859" expanded="true" signature="181:299" placeholder="..." />
+            <marker date="1399922607859" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -705,7 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P0025A_IQ_Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="10" selection-start="117" selection-end="402" vertical-scroll-proportion="0.7322835" vertical-offset="61" max-vertical-offset="442">
+        <state line="20" column="10" selection-start="117" selection-end="402" vertical-scroll-proportion="0.544" vertical-offset="0" max-vertical-offset="625">
           <folding />
         </state>
       </provider>
