@@ -34,7 +34,44 @@
     <favorites_list name="Code.Forces" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="P0047A_Police_Recruits.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P0320A_Magic_Numbers.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="23" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P0275A_Lights_Out.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P0275A_Lights_Out.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="16" selection-start="117" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P0294A_Shaass_and_Oskols.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.69815195" vertical-offset="102" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -60,14 +97,18 @@
         <option value="$PROJECT_DIR$/P0165A_Supercentral_Point.py" />
         <option value="$PROJECT_DIR$/P0272A_Dima_and_Friends.py" />
         <option value="$PROJECT_DIR$/P0025A_IQ_Test.py" />
+        <option value="$PROJECT_DIR$/P0047A_Police_Recruits.py" />
+        <option value="$PROJECT_DIR$/P0320A_Magic_Numbers.py" />
+        <option value="$PROJECT_DIR$/P0275A_Lights_Out.py" />
+        <option value="$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1318" />
-    <option name="height" value="784" />
+    <option name="width" value="1456" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -172,90 +213,10 @@
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <PyConsoleSettings />
+      <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.P0025A_IQ_Test">
-    <configuration default="false" name="P0233A_Perfect_Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0233A_Perfect_Permutation.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0151A_Soft_Drinking" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0151A_Soft_Drinking.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0165A_Supercentral_Point" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0165A_Supercentral_Point.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0272A_Dima_and_Friends" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0272A_Dima_and_Friends.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.P0294A_Shaass_and_Oskols">
     <configuration default="false" name="P0025A_IQ_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,24 +236,82 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+    <configuration default="false" name="P0047A_Police_Recruits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0047A_Police_Recruits.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0320A_Magic_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Forces" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0320A_Magic_Numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0275A_Lights_Out" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Forces" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0275A_Lights_Out.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0294A_Shaass_and_Oskols" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Forces" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -359,9 +378,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -426,19 +442,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.P0233A_Perfect_Permutation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.P0151A_Soft_Drinking" />
-      <item index="2" class="java.lang.String" itemvalue="Python.P0165A_Supercentral_Point" />
-      <item index="3" class="java.lang.String" itemvalue="Python.P0272A_Dima_and_Friends" />
-      <item index="4" class="java.lang.String" itemvalue="Python.P0025A_IQ_Test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.P0025A_IQ_Test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.P0047A_Police_Recruits" />
+      <item index="2" class="java.lang.String" itemvalue="Python.P0320A_Magic_Numbers" />
+      <item index="3" class="java.lang.String" itemvalue="Python.P0275A_Lights_Out" />
+      <item index="4" class="java.lang.String" itemvalue="Python.P0294A_Shaass_and_Oskols" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.P0025A_IQ_Test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.P0272A_Dima_and_Friends" />
-        <item index="2" class="java.lang.String" itemvalue="Python.P0165A_Supercentral_Point" />
-        <item index="3" class="java.lang.String" itemvalue="Python.P0151A_Soft_Drinking" />
-        <item index="4" class="java.lang.String" itemvalue="Python.P0233A_Perfect_Permutation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.P0294A_Shaass_and_Oskols" />
+        <item index="1" class="java.lang.String" itemvalue="Python.P0275A_Lights_Out" />
+        <item index="2" class="java.lang.String" itemvalue="Python.P0320A_Magic_Numbers" />
+        <item index="3" class="java.lang.String" itemvalue="Python.P0047A_Police_Recruits" />
+        <item index="4" class="java.lang.String" itemvalue="Python.P0025A_IQ_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -469,22 +485,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="-8" width="1318" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24347158" sideWeight="0.6574501" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51766515" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.6574501" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36456996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34254992" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34146342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -507,7 +523,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -541,76 +557,30 @@
         <state line="7" column="0" selection-start="163" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P0381A_Sereja_and_Dima.py">
+    <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="162" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="476">
+        <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P0384A_Coder.py">
+    <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="10" selection-start="163" selection-end="585" vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="646">
-          <folding>
-            <marker date="1399922035500" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0200B_Drinks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="10" selection-start="163" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding>
-            <marker date="1399922607859" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0285A_Slightly_Decreasing_Permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="408">
+        <state line="8" column="23" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P0255A_Greg_s_Workout.py">
+    <entry file="file://$PROJECT_DIR$/P0275A_Lights_Out.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="10" selection-start="117" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="510">
+        <state line="30" column="16" selection-start="117" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P0233A_Perfect_Permutation.py">
+    <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="117" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0151A_Soft_Drinking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0165A_Supercentral_Point.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="17" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1054">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0272A_Dima_and_Friends.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="10" selection-start="117" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P0025A_IQ_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="10" selection-start="117" selection-end="402" vertical-scroll-proportion="0.544" vertical-offset="0" max-vertical-offset="625">
+        <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.69815195" vertical-offset="102" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
