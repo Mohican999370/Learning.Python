@@ -35,37 +35,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="P0047A_Police_Recruits.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
+      <file leaf-file-name="P0114A_Cifera.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P0114A_Cifera.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646">
+            <state line="14" column="19" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P0320A_Magic_Numbers.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
+      <file leaf-file-name="P0432A_Choosing_Teams.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P0432A_Choosing_Teams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+            <state line="15" column="12" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P0275A_Lights_Out.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P0275A_Lights_Out.py">
+      <file leaf-file-name="P0432B_Football_Kit.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/P0432B_Football_Kit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="16" selection-start="117" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0294A_Shaass_and_Oskols.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.69815195" vertical-offset="102" max-vertical-offset="663">
+            <state line="20" column="22" selection-start="423" selection-end="423" vertical-scroll-proportion="0.47648263" vertical-offset="107" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -101,6 +92,32 @@
         <option value="$PROJECT_DIR$/P0320A_Magic_Numbers.py" />
         <option value="$PROJECT_DIR$/P0275A_Lights_Out.py" />
         <option value="$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py" />
+        <option value="$PROJECT_DIR$/P0387A_George_and_Sleep.py" />
+        <option value="$PROJECT_DIR$/P0036A_Vasily_the_Bear_and_Triangle.py" />
+        <option value="$PROJECT_DIR$/0084A_Toy_Army.py" />
+        <option value="$PROJECT_DIR$/P0291A_Spyke_Talks.py" />
+        <option value="$PROJECT_DIR$/P0092A_Chips.py" />
+        <option value="$PROJECT_DIR$/P0246A_Buggy_Sorting.py" />
+        <option value="$PROJECT_DIR$/P0146A_Lucky_Ticket.py" />
+        <option value="$PROJECT_DIR$/P0378A_Playing_with_Dice.py" />
+        <option value="$PROJECT_DIR$/P0322A_Ciel_and_Dancing.py" />
+        <option value="$PROJECT_DIR$/P0263_Squares.py" />
+        <option value="$PROJECT_DIR$/P0262A_Roma_and_Lucky_Numbers.py" />
+        <option value="$PROJECT_DIR$/P0038A_Army.py" />
+        <option value="$PROJECT_DIR$/P0265A_Colorful_Stones_SE.py" />
+        <option value="$PROJECT_DIR$/P0219A_k_string.py" />
+        <option value="$PROJECT_DIR$/P0129A_Cookies.py" />
+        <option value="$PROJECT_DIR$/P0350A_TL.py" />
+        <option value="$PROJECT_DIR$/P0160B_Unlucky_Ticket.py" />
+        <option value="$PROJECT_DIR$/P0168A_Wizards_and_Demonstration.py" />
+        <option value="$PROJECT_DIR$/P0327B_Hungry_Sequence.py" />
+        <option value="$PROJECT_DIR$/P0300_A.py" />
+        <option value="$PROJECT_DIR$/P0300A_Array.py" />
+        <option value="$PROJECT_DIR$/P0404A_Valera_and_X.py" />
+        <option value="$PROJECT_DIR$/P0340A_The_Wall.py" />
+        <option value="$PROJECT_DIR$/P0114A_Cifera.py" />
+        <option value="$PROJECT_DIR$/P0432A_Choosing_Teams.py" />
+        <option value="$PROJECT_DIR$/P0432B_Football_Kit.py" />
       </list>
     </option>
   </component>
@@ -216,8 +233,8 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.P0294A_Shaass_and_Oskols">
-    <configuration default="false" name="P0025A_IQ_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.P0432B_Football_Kit">
+    <configuration default="false" name="P0300A_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -230,13 +247,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0025A_IQ_Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0300A_Array.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="P0047A_Police_Recruits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P0340A_The_Wall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -249,13 +266,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0047A_Police_Recruits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0340A_The_Wall.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="P0320A_Magic_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P0114A_Cifera" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -268,26 +285,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0320A_Magic_Numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P0275A_Lights_Out" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code.Forces" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0275A_Lights_Out.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0114A_Cifera.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -295,7 +293,7 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="P0294A_Shaass_and_Oskols" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P0432A_Choosing_Teams" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -308,9 +306,30 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code.Forces" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0432A_Choosing_Teams.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P0432B_Football_Kit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code.Forces" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P0432B_Football_Kit.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -442,19 +461,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.P0025A_IQ_Test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.P0047A_Police_Recruits" />
-      <item index="2" class="java.lang.String" itemvalue="Python.P0320A_Magic_Numbers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.P0275A_Lights_Out" />
-      <item index="4" class="java.lang.String" itemvalue="Python.P0294A_Shaass_and_Oskols" />
+      <item index="0" class="java.lang.String" itemvalue="Python.P0300A_Array" />
+      <item index="1" class="java.lang.String" itemvalue="Python.P0340A_The_Wall" />
+      <item index="2" class="java.lang.String" itemvalue="Python.P0114A_Cifera" />
+      <item index="3" class="java.lang.String" itemvalue="Python.P0432A_Choosing_Teams" />
+      <item index="4" class="java.lang.String" itemvalue="Python.P0432B_Football_Kit" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.P0294A_Shaass_and_Oskols" />
-        <item index="1" class="java.lang.String" itemvalue="Python.P0275A_Lights_Out" />
-        <item index="2" class="java.lang.String" itemvalue="Python.P0320A_Magic_Numbers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.P0047A_Police_Recruits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.P0025A_IQ_Test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.P0432B_Football_Kit" />
+        <item index="1" class="java.lang.String" itemvalue="Python.P0432A_Choosing_Teams" />
+        <item index="2" class="java.lang.String" itemvalue="Python.P0114A_Cifera" />
+        <item index="3" class="java.lang.String" itemvalue="Python.P0340A_The_Wall" />
+        <item index="4" class="java.lang.String" itemvalue="Python.P0300A_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -496,16 +515,16 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36456996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34146342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.338896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -523,10 +542,121 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="31" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/P0291A_Spyke_Talks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="21" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="765">
+          <folding>
+            <marker date="1400155025380" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1400155025380" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0092A_Chips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="29" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="510">
+          <folding>
+            <marker date="1400155664820" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0246A_Buggy_Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0146A_Lucky_Ticket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="12" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0275A_Lights_Out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="16" selection-start="117" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0275A_Lights_Out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="16" selection-start="117" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="0" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0275A_Lights_Out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="16" selection-start="117" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/P0268B_Buttons.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="27" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221" />
@@ -559,9 +689,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P0047A_Police_Recruits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646">
-          <folding />
-        </state>
+        <state line="23" column="0" selection-start="438" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P0320A_Magic_Numbers.py">
@@ -580,7 +708,196 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P0294A_Shaass_and_Oskols.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="0.69815195" vertical-offset="102" max-vertical-offset="663">
+        <state line="33" column="16" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0387A_George_and_Sleep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="12" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0036A_Vasily_the_Bear_and_Triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="12" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0084A_Toy_Army.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0291A_Spyke_Talks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="21" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding>
+            <marker date="1400155025380" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1400155025380" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0092A_Chips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="29" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding>
+            <marker date="1400155664820" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0246A_Buggy_Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0146A_Lucky_Ticket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="454" selection-end="454" vertical-scroll-proportion="0.45152724" vertical-offset="0" max-vertical-offset="753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0378A_Playing_with_Dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding>
+            <marker date="1400158665685" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0322A_Ciel_and_Dancing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="16" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0263_Squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0262A_Roma_and_Lucky_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="0" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0038A_Army.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="16" selection-start="0" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0265A_Colorful_Stones_SE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="16" selection-start="0" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0219A_k_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="0" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="227" max-vertical-offset="714">
+          <folding>
+            <marker date="1400161344294" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0129A_Cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="0" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding>
+            <marker date="1400162226395" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0350A_TL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.5562372" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0160B_Unlucky_Ticket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="0" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0168A_Wizards_and_Demonstration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="16" selection-start="0" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0327B_Hungry_Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="26" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0300A_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="14" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding>
+            <marker date="1400165185005" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1400165185005" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0404A_Valera_and_X.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="20" selection-start="0" selection-end="806" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0340A_The_Wall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="0" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0114A_Cifera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0432A_Choosing_Teams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0432B_Football_Kit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="423" selection-end="423" vertical-scroll-proportion="0.47648263" vertical-offset="107" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
