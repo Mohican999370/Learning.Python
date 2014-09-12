@@ -126,7 +126,8 @@ class Notebook:
 		:return: the string representing this notebook
 		"""
 
-		return "[Notebook #" + str(self.id) + "]\r\n" + "\r\n".join([str(note) for note in self.notes])
+		return "[Notebook #" + str(self.id) + "]\r\n" + \
+			   "\r\n".join([str(note) for note in self.notes])
 
 	def __repr__(self):
 		"""
