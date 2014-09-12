@@ -51,6 +51,20 @@ class Note:
 		Instead of an incremental id, I change it to a UUID (automatically set).
 		"""
 
+	def __str__(self):
+		"""
+		:return: the string representing this note
+		"""
+
+		return "[Note #" + str(self.id) + "] " + self.memo
+
+	def __repr__(self):
+		"""
+		:return: the string representing this note
+		"""
+
+		return self.__str__()
+
 	def match(self, search_string: str,
 			  case_insensitive: bool=False,
 			  search_in_tags: bool=True) -> bool:
@@ -106,6 +120,20 @@ class Notebook:
 		:type notes: list
 		The list of all notes in this notebook.
 		"""
+
+	def __str__(self):
+		"""
+		:return: the string representing this notebook
+		"""
+
+		return "[Notebook #" + str(self.id) + "]\r\n" + "\r\n".join([str(note) for note in self.notes])
+
+	def __repr__(self):
+		"""
+		:return: the string representing this notebook
+		"""
+
+		return self.__str__()
 
 	def find_note_by_id(self, note_id: str) -> Note:
 		"""
