@@ -168,7 +168,7 @@ class Notebook:
 		new_note = Note(memo, tags)
 		self.notes.append(new_note)
 
-	def modify_memo(self, note_id: str, memo: str):
+	def modify_memo(self, note_id: str, memo: str) -> bool:
 		"""
 		Find the note with the given id
 		and change its memo to the given value.
@@ -178,14 +178,20 @@ class Notebook:
 
 		:type memo: str
 		:param memo: the new content of the note
+
+		:rtype: bool
+		:return: True if the modification succeeded, otherwise False.
 		"""
 
 		note = self.find_note_by_id(note_id)
 
-		if None != note:
+		if note:
 			note.memo = memo
+			return True
+		else:
+			return False
 
-	def modify_tags(self, note_id: str, tags: str):
+	def modify_tags(self, note_id: str, tags: str) -> bool:
 		"""
 		Find the note with the given id
 		and change it tags to the given value.
@@ -195,12 +201,18 @@ class Notebook:
 
 		:type tags: object
 		:param tags: the new comma-separated tags string
+
+		:rtype: bool
+		:return: True if the modification succeeded, otherwise False.
 		"""
 
 		note = self.find_note_by_id(note_id)
 
-		if None != note:
+		if note:
 			note.tags = tags
+			return True
+		else:
+			return False
 
 	def search(self, search_string: str) -> list:
 		"""
