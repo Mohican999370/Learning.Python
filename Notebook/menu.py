@@ -91,9 +91,8 @@ class Menu:
 		"""
 		Modify a note in the notebook.
 		"""
-		id = input('Enter the note id: ')
-
-		note = self.notebook.find_note_by_id(id)
+		note_id = input('Enter the note id: ')
+		note = self.notebook.find_note_by_id(note_id)
 
 		if note is None:
 			print('No note matches.')
