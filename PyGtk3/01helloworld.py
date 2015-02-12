@@ -4,7 +4,7 @@ __email__ = "sonhuytran@gmail.com"
 __doc__ = ''
 __version__ = '1.0'
 
-from gi.repository import Gtk, Gdk
+from gi.repository import Gtk
 
 
 class MyWindow(Gtk.Window):
@@ -13,12 +13,17 @@ class MyWindow(Gtk.Window):
         self.set_position(Gtk.WindowPosition.CENTER)
         self.stick()
 
-        self.button = Gtk.Button(label="Click Here")
+        self.button = Gtk.Button()
+        self.button.set_label("Fußbälle")
+        self.button.set_halign(Gtk.Align.CENTER)
+        self.button.set_valign(Gtk.Align.CENTER)
         self.button.connect("clicked", self.on_button_clicked)
         self.add(self.button)
 
+        print(dir(self.props))
+
     def on_button_clicked(self, widget):
-        print("Hello World")
+        print("Fußbälle")
 
 
 win = MyWindow()
